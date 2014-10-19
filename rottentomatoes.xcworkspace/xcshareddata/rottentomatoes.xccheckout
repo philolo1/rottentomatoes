@@ -12,20 +12,24 @@
 	<dict>
 		<key>095A08592B9510462AC8DC80FB7A6508BC597A7A</key>
 		<string>https://github.com/philolo1/iosClass.git</string>
+		<key>7228052F87FC2ABCB9C59A80A1CC6A26245EC70E</key>
+		<string>https://github.com/philolo1/rottentomatoes.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>rottentomatoes/rottentomatoes/rottentomatoes.xcworkspace</string>
+	<string>rottentomatoes.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>095A08592B9510462AC8DC80FB7A6508BC597A7A</key>
-		<string>../../..</string>
+		<string>../../iosClass</string>
+		<key>7228052F87FC2ABCB9C59A80A1CC6A26245EC70E</key>
+		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/philolo1/iosClass.git</string>
+	<string>https://github.com/philolo1/rottentomatoes.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>095A08592B9510462AC8DC80FB7A6508BC597A7A</string>
+	<string>7228052F87FC2ABCB9C59A80A1CC6A26245EC70E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>095A08592B9510462AC8DC80FB7A6508BC597A7A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iosClass</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7228052F87FC2ABCB9C59A80A1CC6A26245EC70E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>rottentomatoes</string>
 		</dict>
 	</array>
 </dict>
